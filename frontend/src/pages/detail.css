@@ -1,0 +1,25 @@
+h2 {
+  font-size: 32px;
+  text-align: center;
+  margin: 18px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.picture {
+  margin: 5px;
+  width: 35%;
+  height: 68vh;
+  border-radius: 2%;
+  float: left;
+}
+
+.info {
+  margin: 20px;
+  width: 70%;
+  float: right;
+  font-size: 22px;
+}
